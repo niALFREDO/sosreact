@@ -1,0 +1,35 @@
+       vHoliday training topics
+
+-React js 
+  .Reactvjs introduction
+  .Advantages of react
+  .work flow of react js
+  .Scope of react js
+
+-Overview os JSX
+   .introduction of virtual DOM
+   .diFFERENCE BETWEEN JS and JSX
+   .react components overview
+   .containers and components
+   .whatvis child components
+   .what is namespace component
+   .what are javascript expressond available in JSX
+
+-REACT JS VENVIRONMENT SETUPS
+   .Node setup
+   .how o use NPM
+   .How to create package.json and purpose of it?
+   .ES6 introduction and features
+   .webpack overview
+   .best IDE for react js and how to write optimized code in JS
+   .React JS browser pluggins overview
+
+-A REAL TIME APPLICATIONS BY USING REACT JS
+   .create a react component with JSX template
+   .How to create nested components
+   .what is react JS render
+   .react props overview
+   .introduction of props available with data types
+   .flow of states initiate states and updates
+   .
+
